@@ -1,0 +1,47 @@
+openapi: 3.0.1
+info:
+  title: defaultTitle
+  description: defaultDescription
+  version: 1.0.0
+servers:
+- url: https://github.com
+paths:
+  /Palmoze5/jokesonyou-api:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        200:
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: https://github.com
+    put:
+      description: Auto generated using Swagger Inspector
+      responses:
+        422:
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: https://github.com
+    post:
+      description: Auto generated using Swagger Inspector
+      responses:
+        422:
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: https://github.com
+    delete:
+      description: Auto generated using Swagger Inspector
+      responses:
+        422:
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: https://github.com
+    patch:
+      description: Auto generated using Swagger Inspector
+      responses:
+        422:
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: https://github.com
+    servers:
+    - url: https://github.com
+components: {}
